@@ -1,0 +1,14 @@
+C:\Users\Student_01\Lab05-Naumova\obj\Debug\net10.0\Lab05-Naumova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student_01\Lab05-Naumova\obj\Debug\net10.0\Lab05-Naumova.AssemblyInfoInputs.cache
+C:\Users\Student_01\Lab05-Naumova\obj\Debug\net10.0\Lab05-Naumova.AssemblyInfo.cs
+C:\Users\Student_01\Lab05-Naumova\obj\Debug\net10.0\Lab05-Naumova.csproj.CoreCompileInputs.cache
+C:\Users\Student_01\Lab05-Naumova\bin\Debug\net10.0\Lab05-Naumova.exe
+C:\Users\Student_01\Lab05-Naumova\bin\Debug\net10.0\Lab05-Naumova.deps.json
+C:\Users\Student_01\Lab05-Naumova\bin\Debug\net10.0\Lab05-Naumova.runtimeconfig.json
+C:\Users\Student_01\Lab05-Naumova\bin\Debug\net10.0\Lab05-Naumova.dll
+C:\Users\Student_01\Lab05-Naumova\bin\Debug\net10.0\Lab05-Naumova.pdb
+C:\Users\Student_01\Lab05-Naumova\obj\Debug\net10.0\Lab05-Naumova.dll
+C:\Users\Student_01\Lab05-Naumova\obj\Debug\net10.0\refint\Lab05-Naumova.dll
+C:\Users\Student_01\Lab05-Naumova\obj\Debug\net10.0\Lab05-Naumova.pdb
+C:\Users\Student_01\Lab05-Naumova\obj\Debug\net10.0\Lab05-Naumova.genruntimeconfig.cache
+C:\Users\Student_01\Lab05-Naumova\obj\Debug\net10.0\ref\Lab05-Naumova.dll
